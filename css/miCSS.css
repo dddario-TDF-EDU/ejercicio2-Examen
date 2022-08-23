@@ -1,0 +1,12 @@
+.cajaRoja {
+  background-color: crimson;
+}
+
+.cajaVerde {
+  background-color: aquamarine;
+}
+
+.tamanioCaja {
+  width: 20vw;
+  height: 20vh;
+}
